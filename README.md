@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <!--Texto de apresentação-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0088DB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Fábio+Garcia!;Atualmente+estou+cursando+ADS;Seja+bem-vindo+ao+meu+github+:%29;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0088DB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Fábio+Garcia!;Sou+Técnico+em+Desenvolvimento+de+Sistemas;Tecnólogo+em+Análise+e+Desenvolvimento+de+Sistemas;A+atualmente+estou+cursando+Sistemas+para+Internet;Seja+bem-vindo+ao+meu+github+:%29;)](https://git.io/typing-svg)
 
 
 <br><br><br><br>
